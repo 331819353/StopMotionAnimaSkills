@@ -1,0 +1,4 @@
+interface:
+  display_name: "定格动画 · 成片检查"
+  short_description: "完成定格剪辑、音画同步与精确字幕，检查动作连续性及事实准确性"
+  default_prompt: "使用 $stopmotion-finish，完成现有定格镜头的声音剪辑与成片检查。"

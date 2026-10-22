@@ -1,0 +1,4 @@
+interface:
+  display_name: "定格动画 · 科普脚本"
+  short_description: "核实科普知识，以部件替换、状态对照和逐帧摆放解释科学机制"
+  default_prompt: "使用 $stopmotion-explainer，核实我的科普主题并设计可摆放演示的定格科普脚本。"

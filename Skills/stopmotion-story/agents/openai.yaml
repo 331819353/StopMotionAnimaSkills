@@ -1,0 +1,4 @@
+interface:
+  display_name: "定格动画 · 故事剧本"
+  short_description: "用可摆放道具、姿态停格、视觉笑点与有铺垫的反转创作定格故事"
+  default_prompt: "使用 $stopmotion-story，根据我的要求创作可通过素材摆放实现的定格故事。"

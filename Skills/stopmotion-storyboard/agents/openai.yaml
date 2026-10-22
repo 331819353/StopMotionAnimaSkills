@@ -1,0 +1,4 @@
+interface:
+  display_name: "定格动画 · 分镜样片"
+  short_description: "把定格脚本转成布景层级、姿态序列、整数帧节拍与动态分镜"
+  default_prompt: "使用 $stopmotion-storyboard，把现有脚本制作成可逐帧摆放的定格分镜和动态分镜。"

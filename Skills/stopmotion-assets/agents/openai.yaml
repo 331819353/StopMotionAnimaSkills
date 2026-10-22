@@ -1,0 +1,4 @@
+interface:
+  display_name: "定格动画 · 母版与动作帧"
+  short_description: "制作整场景母版与整画面动作帧，或完整角色素材，检查比例、状态和接触"
+  default_prompt: "使用 $stopmotion-assets，按当前项目指定的制作方式与阶段母版生成定格动作帧，检查连续性，不拆角色拼装。"

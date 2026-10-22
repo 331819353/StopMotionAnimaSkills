@@ -1,0 +1,4 @@
+interface:
+  display_name: "定格动画 · 制作总入口"
+  short_description: "统筹故事、科普与故事化科普，以素材替换和逐帧摆放完成定格制作"
+  default_prompt: "使用 $stopmotion-production，按我的制作要求启动定格动画项目，先判断模式并检查已有产物。"
